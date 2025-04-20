@@ -1,0 +1,14 @@
+C:\Users\stepa\source\repos\calkulator\calkulator\bin\Debug\net8.0\calkulator.exe
+C:\Users\stepa\source\repos\calkulator\calkulator\bin\Debug\net8.0\calkulator.deps.json
+C:\Users\stepa\source\repos\calkulator\calkulator\bin\Debug\net8.0\calkulator.runtimeconfig.json
+C:\Users\stepa\source\repos\calkulator\calkulator\bin\Debug\net8.0\calkulator.dll
+C:\Users\stepa\source\repos\calkulator\calkulator\bin\Debug\net8.0\calkulator.pdb
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\calkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\calkulator.AssemblyInfoInputs.cache
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\calkulator.AssemblyInfo.cs
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\calkulator.csproj.CoreCompileInputs.cache
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\calkulator.dll
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\refint\calkulator.dll
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\calkulator.pdb
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\calkulator.genruntimeconfig.cache
+C:\Users\stepa\source\repos\calkulator\calkulator\obj\Debug\net8.0\ref\calkulator.dll
