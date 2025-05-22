@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Linq;
-
 public class M
 {
     public static void Main(string[] a)

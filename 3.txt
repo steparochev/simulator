@@ -1,0 +1,7 @@
+class C
+{
+    static void Main()
+    {
+        Console.WriteLine("6+6 = 12");
+    }
+}

@@ -11,17 +11,17 @@ public class Q
             { { 10, 11 }, { 12, 13 } }
         };
 
-        Console.Write("{"); // Начало
+        Console.Write("{");
 
-        // Перебираем массив
-        for (int i = 0; i < 4; i++) // Для каждой "страницы"
+        
+        for (int i = 0; i < 4; i++) 
         {
             Console.Write("{");
-            for (int j = 0; j < 2; j++) // Для каждой строки
+            for (int j = 0; j < 2; j++) 
             {
-                Console.Write("{" + mas[i, j, 0] + " , " + mas[i, j, 1] + "}"); // Выводим строку
+                Console.Write("{" + mas[i, j, 0] + " , " + mas[i, j, 1] + "}"); 
 
-                if (j == 0) // Если это первая строка, ставим разделитель
+                if (j == 0) 
                 {
                     Console.Write(" , ");
                 }
